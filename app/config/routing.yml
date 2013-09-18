@@ -1,0 +1,4 @@
+daenoor_jobeet:
+    resource: "@DaenoorJobeetBundle/Resources/config/routing.yml"
+    prefix:   /
+
